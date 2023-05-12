@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1032048190083",
+    "project_id": "career-guidance-app-e79b0",
+    "storage_bucket": "career-guidance-app-e79b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032048190083:android:8c7200affc586ace9af1b6",
+        "android_client_info": {
+          "package_name": "com.example.career_guidance_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032048190083-u7n7gkn0adb7473f59rl8105jrt3ocqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0wn6Y4YscucsREoLAsNefQaxhUOYXJVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032048190083-u7n7gkn0adb7473f59rl8105jrt3ocqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
